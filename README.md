@@ -10,7 +10,4 @@ Leaf Disease Identification: Developed a disease detection system using MATLAB.
 CRUD Application: Created a CRUD app using HTML, CSS, and JavaScript.
 Wireless Communication Simulation: MATLAB project simulating wireless communication.
 🌱 Currently Learning
-Advanced JavaScript and Full Stack tools like Node.js and React.
-🌍 Let's Connect
-LinkedIn
-GitHub
+Advanced JavaScript and Full Stack tools like Node.js and React
